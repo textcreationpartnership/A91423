@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of two speeches spoken by two orphans, educated in Christ-Hospital, on the 13th day of August, 1663 being a day set apart to commemorate God's mercies bestowed on their fellow-brethren, who were formerly educated and brought up in the said hospital.</title>
+            <author>Parker, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91423</idno>
+            <idno type="STC">Wing P434A</idno>
+            <idno type="STC">ESTC R181446</idno>
+            <idno type="EEBO-CITATION">42476211</idno>
+            <idno type="OCLC">ocm 42476211</idno>
+            <idno type="VID">151262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151262)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2252:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of two speeches spoken by two orphans, educated in Christ-Hospital, on the 13th day of August, 1663 being a day set apart to commemorate God's mercies bestowed on their fellow-brethren, who were formerly educated and brought up in the said hospital.</title>
+                  <author>Parker, John.</author>
+                  <author>Brice, Thomas, fl. 1663.</author>
+               </titleStmt>
+               <extent>[2], 11 p.  15 cm. </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Godbid,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>M. DC. LXIII [1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First speech signed: John Parker, orphan; second speech signed: Thomas Brice, orphan.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christ's Hospital (London, England)</term>
+               <term>London (England) --  Orphans.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151262:1"/>
+            <p>A TRUE COPY OF TWO SPEECHES, <hi>SPOKEN</hi> By Two <hi>ORPHANS,</hi> Educated in CHRIST-HOSPITAL, On the 13<hi rend="sup">th</hi> day of <hi>Auguſt,</hi> 1663.</p>
+            <p>
+               <hi>BEING</hi> A day ſet apart to com<g ref="char:EOLhyphen"/>memorate God's Mercies be<g ref="char:EOLhyphen"/>ſtowed on their <hi>fellow-Brethren,</hi> who were formerly Educated and brought up in the ſaid <hi>HOSPITAL.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>WILLIAM GODBID,</hi> M.DC.LXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="speech">
+            <pb facs="tcp:151262:2"/>
+            <pb n="1" facs="tcp:151262:2"/>
+            <head>The firſt SPEECH.</head>
+            <opener>
+               <salute>
+                  <hi>Reverend Brethren and</hi> quondam <hi>Fellow-Orphans;</hi>
+               </salute>
+            </opener>
+            <p>THere is I confeſs a great diſparity between you, that are our Seniours, and us, who are as it were but of yeſterday. You have formerly been planted in this Soyle, and now grown up to be tall <hi>Cedars, Stars</hi> of a high<g ref="char:EOLhyphen"/>er magnitude than we, whoſe ſplendor and luſtre do beſpeak you to be conſpicuous; yet we hope you will give us leave to feed our Eyes in behold<g ref="char:EOLhyphen"/>ing ſo lovely a ſight as appears in this place this day, and to congratulate you in this dayes Solem<g ref="char:EOLhyphen"/>nity.</p>
+            <p>I am deſired in the Name of my Fellow-Or<g ref="char:EOLhyphen"/>phans, who daily ſuck at the breaſts of Charity, to tell you how proud ſhe is to ſee ſo numerous an Off-ſpring, and ſo loving a Fraternity to aſſo<g ref="char:EOLhyphen"/>ciate themſelves within her Habitation. And why ſhould not we, who are her Foſter-children, that have <hi>communem cutem</hi> with you, though not <hi>com<g ref="char:EOLhyphen"/>munem veſtem,</hi> count our ſelves honoured, that we have ſuch Worthy, Grave and Venerable perſons for our Elder Brethren? It makes our hearts leap for joy within us, that after all our diſmal Confla<g ref="char:EOLhyphen"/>grations and State-convulſions, we may this day behold the faces of our Brethren, whom we fea<g ref="char:EOLhyphen"/>red
+<pb n="2" facs="tcp:151262:3"/>had been ſwallowed up in thoſe bloody waves, which ſwell'd lately beyond their chanel. But bleſſed be our God, that ſecured you in this <hi>Ark,</hi> and preſerved you in this <hi>Zoar,</hi> till the floods of blood were abated, and the fire of our conten<g ref="char:EOLhyphen"/>tions was quenched.</p>
+            <p>You are now exempted from your fears and dangers, and have the happineſs this day to meet together, and commemorate thoſe great mercies and favours that God in this place prepared for you. It is, and often hath been, the practice of great Perſons, whom God hath raiſed even from the duſt, to frequent thoſe places where at firſt they had their beings. <hi>Agathocles,</hi> though advan<g ref="char:EOLhyphen"/>ced to a Throne, yet could delight to ſee thoſe Pots amongſt which he once lay. And good rea<g ref="char:EOLhyphen"/>ſon indeed have you to be cloathed with the ſame humility, conſidering what once you were, and to what Eſtate many of you are advanced at this preſent. To your honour be it ſpoken, that you have ſet apart this day to publiſh and proclaim God's mercy, <hi>who remembred you in your low eſtates; for his mercies endure for ever;</hi> and alſo to take a fuller view of this place, where for ſome years paſt, the bowels of moſt here preſent were refreſhed, your naked backs cloathed, and all ne<g ref="char:EOLhyphen"/>ceſſaries ſo provided for you, that you, as well as we, forge<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now what want means: <hi>Olim haec me<g ref="char:EOLhyphen"/>miniſſe juvabit.</hi>
+            </p>
+            <p>Time was, when you traced theſe Galleries, and thought your ſelves happy that a Table was
+<pb n="3" facs="tcp:151262:3"/>here ſpred for you. Time was, when you were un<g ref="char:EOLhyphen"/>der this <hi>Oeconomie,</hi> and counted it a favour that you could be admitted to ſit under theſe Roofs: and ſtill to this day the memory of theſe mercies is not obliterated. You do well therefore to pre<g ref="char:EOLhyphen"/>ſcribe an Annual Feſtival, that ſo this City and our honourable Patrons and worthy Benefactors may ſee how thankful you are, and how careful you will be to revive the thoughts and memory of their favour and beneficence.</p>
+            <p>Your mouths, I ſee, are filled with holy Doxo<g ref="char:EOLhyphen"/>logies, while your hearts ruminate on theſe mer<g ref="char:EOLhyphen"/>cies. Your Hallelujahs are not verbal, but cor<g ref="char:EOLhyphen"/>dial, while you do not only recollect thoſe priſtine favours which God beſtowed, but alſo deſire this day to praiſe him for your preſent con<g ref="char:EOLhyphen"/>dition. Your Arithmetick is not able to recount that Series of Providence that at this day attends you; nor can your Mathematical knowledge fathom the great Abyſs of his divine love, nor take the altitude or dimenſion of his bounty. Your lot, while you were here, fell in a good place, and now alſo you have a goodly he<g ref="char:EOLhyphen"/>ritage.</p>
+            <p>Many of you may ſay with <hi>Jacob; With my ſtaff came I ever this Jordan, and now I am be<g ref="char:EOLhyphen"/>come two hands; I am raiſed from the duſt, and en<g ref="char:EOLhyphen"/>joy peace and plenty.</hi>
+            </p>
+            <p>Give me leave (dear Brethren) I beſeech you, to affect the hearts of my fellow-Orphans with this rare Spectacle of divine mercy, and
+<pb n="4" facs="tcp:151262:4"/>viciſſitude of Divine Providence.</p>
+            <p>Draw near (my dear Hearts) and behold what a knot of Amity divine Love hath here tyed; what an honourable Convention of Brethren is here aſſembled, to bleſs the Lord this day for his paſt and preſent mercies conferred upon them. Theſe once were planted in this Garden, and now behold! being watered by the influence of Hea<g ref="char:EOLhyphen"/>ven, to what a height they have aſpired.</p>
+            <p>Here are ſome, whom God hath honoured to be <hi>Animarum Proci,</hi> and hath inveſted them with Eccleſiaſtical promotion. Here are others, whom God hath qualified and made uſeful for Political concernments. Some, whom God hath made to be a Sun, to give light to thoſe that ſit in darkneſs: and others, whom he hath placed-in <hi>Londons</hi> He<g ref="char:EOLhyphen"/>miſphere, like Stars, to be influential in their Orbs. Surely the Poet was miſtaken in his obſervation, when he did ſo boldly aſſert,</p>
+            <q xml:lang="lat">
+               <l>Non facilè emergunt, quorum virtutibus obſtat</l>
+               <l>Res anguſta domi.—</l>
+            </q>
+            <p>Be incouraged (my fellow-Orphans:) The ſame hand that raiſed up theſe our worthy Brethren, can exalt us. Let us emulate their vertues, though not envy at their proſperity. Bleſſed be our God that hath raiſed up Nurſing Fathers for Us alſo, by whoſe care, and our wiſe circumſpection, we alſo may ſprout forth through God's mercy in vertu<g ref="char:EOLhyphen"/>ous atchievements.</p>
+            <p>
+               <pb n="5" facs="tcp:151262:4"/>
+Pardon me (dear Brethren) that I have ſo long ſtopped the ſound of your grateful acknowledge<g ref="char:EOLhyphen"/>ments of God's preſent favours to you. You are now going to ſolace your ſelves in the enjoyment of Fraternal conference; and I know that you will admit no ungrateful Gueſt this day into your Society. You are of <hi>Philip</hi>'s mind King of <hi>Ma<g ref="char:EOLhyphen"/>cedon;</hi> to brand him on the forehead with theſe two letters [I. H.] <hi>Ingratus Hoſpes,</hi> that ſhall be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uilty of that Vice.</p>
+            <p>Your hearts, I ſee, are enlarged, nay ready to crack in ſunder, till you have vented your grateful acknowledgements and pious acclamations. Your fervent zeal boils over, while your thoughts are enflamed with divine meditation on God's grace and bounty.</p>
+            <p>Weighty Clouds, I ſee, muſt empty themſelves by diſtillation, and pay their tribute to the thirſty Earth. You do well this day, to diſplay the ban<g ref="char:EOLhyphen"/>ners of God's mercy to all Spectators, and to ſet the Crown of all your enjoyments upon his head.</p>
+            <p>Go on (dear Brethren) and let this preſent Fe<g ref="char:EOLhyphen"/>ſtival be crowned with love and harmony of af<g ref="char:EOLhyphen"/>fection, that you may be, as <hi>Pylades</hi> and <hi>Oreſtes,</hi> even one ſoul.</p>
+            <p>For ever may thoſe ſparks of Contention, that have ſet others into a flame of paſſion, be quite amongſt you extinguiſhed; that ſo this place and this meeting may juſtly challenge the name of <hi>Philadelphia,</hi> or <hi>a Society of loving Brethren.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:151262:5"/>
+Rejoyce together; but, I beſeech you, let this dayes Solemnity hereafter be like a fruitfull womb, to bring forth many bleſſings to this place, where once you had your ſuccour. You are thoſe ΠΤΩΧΟΠΛΟΥΣΙΟΙ, whom the Almighty hath ſhielded with the Helmet of his Providence, and now expects that you ſhould reach out your hand for the defence of ſuch as we, that are your younger Brethren. Let it appear that Charity hath ſuch an Off-ſpring, that are not only like <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Tribe of <hi>Gad</hi> for number, but alſo like the Trees of <hi>Lebanon</hi> for ſhade and comfort to their fel<g ref="char:EOLhyphen"/>low-Brethren.</p>
+            <p>In a word, let not your tongues only be tu<g ref="char:EOLhyphen"/>ning the praiſes of God, whilſt your hands are open and free for our Relief; but let your hearts alſo offer up the ſacrifice of Prayer, That God would bleſs our Gracious Sovereign, and our No<g ref="char:EOLhyphen"/>ble Queen, with all the Royal Family; That he would watch over this great City, and cauſe that Peace and Plenty might unload themſelves in her Lap; That he would proſper this Foundation, and reward our Patrons and Benefactors, who ſo freely have ſcattered the ſeeds of their Charity in theſe furrows.</p>
+            <p>And let all Loyal hearts and grateful Orphans ſtand up, and ſay, <hi>Amen, Amen.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>John Parker,</hi> Orphan.</signed>
+            </closer>
+         </div>
+         <div n="2" type="speech">
+            <pb n="7" facs="tcp:151262:5"/>
+            <head>The ſecond SPEECH.</head>
+            <opener>Nay ſtay I beſeech you (Brethren) a little, and let not the joy of this Feſtival ſo tranſport you, as to forget to pay your tribute of Thankfulneſs unto theſe worthy Perſons, who have honoured this Society this day with their preſence.<lb/>
+               <salute>RIght Worſhipful,</salute>
+            </opener>
+            <p>I have heard that great Per<g ref="char:EOLhyphen"/>ſons have thoſe that are Maſters of the Cere<g ref="char:EOLhyphen"/>monies, to court their Gueſts with complemental ſalutations. Such I confeſs are wanting to this our Feſtival. But yet rather then ſuch worthy Perſons ſhall go unſaluted, I my ſelf (though but a poor Complementer) in the name of this So<g ref="char:EOLhyphen"/>ciety, and at their command, will redouble our ſa<g ref="char:EOLhyphen"/>lutations, and bid you welcome.</p>
+            <p>We would not be ſingular in our grateful Re<g ref="char:EOLhyphen"/>tributions; but yet we have cauſe on this day to thank you eſpecially (Our Worſhipful Treaſurer) that you have ſhewed your ſelf ſuch a pattern of Chriſtian love and amity, to endeavour to kindle the ſame ſparks in the breaſts of theſe our Bre<g ref="char:EOLhyphen"/>thren, by promoting and encouraging them to this loving meeting.</p>
+            <p>Nor ſhall our thankful acknowledgments be this day confined within a narrow compaſs.</p>
+            <p>We have cauſe indeed (Right Worſhip<g ref="char:EOLhyphen"/>ful) highly to congratulate you, and pay our fili<g ref="char:EOLhyphen"/>al
+<pb n="8" facs="tcp:151262:6"/>all gratitude unto you, our Oeconomical Father, and Noble Preſident, whoſe Head, Heart and Hands are all employed in promoting our Wel<g ref="char:EOLhyphen"/>fare.</p>
+            <p>And though (Sir <hi>Thomas Viner</hi>) perhaps it may be counted a Tautologie to reiterate our ſalutati<g ref="char:EOLhyphen"/>ons; yet we had rather be ſo accuſed, than be ſi<g ref="char:EOLhyphen"/>lent in our return of thanks this day for your pi<g ref="char:EOLhyphen"/>ous bounty towards us poor Orphans, and for that coſt that you have expended to make this place ſo beautiful. You have been the Repairer of our breaches, under whoſe <hi>Vine</hi> we poor Orphans have for ſome time ſat, and to this day do ſmell the fragrancy of your beneficence. What <hi>Ho<g ref="char:EOLhyphen"/>mer</hi> ſtyled <hi>Agamemnon,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; that ap<g ref="char:EOLhyphen"/>pellation do you juſtly deſerve. You have been a bountiful Benefactor and loving Shepherd unto this little Flock, when they were under your Con<g ref="char:EOLhyphen"/>duct, and folded them within theſe green and plea<g ref="char:EOLhyphen"/>ſant Paſtures, which our Brethren ſee this day.</p>
+            <p>To your Honour be it ſpoken, that you have ſhew'n, your ſelf ſo Noble a Preſident: and we hope many others will write after your Copy.</p>
+            <p>If works of Piety may commend a Patron, and liberal Charity and free Bounty extol a Be<g ref="char:EOLhyphen"/>nefactor; Then yours (dear Sir) which you have conferred upon this <hi>Hoſpital,</hi> and on this place, do beſpeak you to be Noble and Gene<g ref="char:EOLhyphen"/>rous.</p>
+            <p>Our Brethren here preſent, as well as we,
+<pb n="9" facs="tcp:151262:6"/>may ſay, <hi>non, ut nunc, ſic olim erat.</hi> Our tat<g ref="char:EOLhyphen"/>ter'd Walls and ſmoky Roof are now ſo repaired by you, that, when Spectators ſee them, they ſay, you have made this place fit for the reception of the greateſt Princes. And truly, that the worth and excellency of our bountiful Benefactors might not be blurred nor expunged, you have ingraved their Names in ſuch legible Characters, that nei<g ref="char:EOLhyphen"/>ther length of time nor envious fate is able to ob<g ref="char:EOLhyphen"/>literate.</p>
+            <p>By you it is, that not only the Royal bounty of King <hi>Edward,</hi> who was our Founder, is commend<g ref="char:EOLhyphen"/>ed to poſterity; but his Perſon alſo as it were hath received a new Reſurrection, being here attended with <hi>England</hi>'s Peers, and <hi>London</hi>'s Repreſenta<g ref="char:EOLhyphen"/>tives, conſulting how to lay a plot and model of true Piety. A lively and a coſtly draught indeed to repreſent <hi>London</hi>'s well-diſpoſed Charity.</p>
+            <p>Here the wounds of the maimed are healed, and the impotent poor relieved: There the ſturdy Vagrant corrected, and his hands taught to labour. And here alſo are the Thriftleſs Poor and Needy Orphans, whoſe Livery being almoſt thredbare and worn out, is now recruited (Noble Sir) we ſee, out of your own Wardrobe.</p>
+            <p>There both <hi>Moſes</hi> and <hi>Aaron,</hi> the fit Repreſen<g ref="char:EOLhyphen"/>tatives of Political and Eccleſiaſtical order, are prefigured. And that we might not forget our Chriſtian duty, we have both <hi>Law</hi> and <hi>Goſpel</hi> fairly tranſcribed in the Decalogue.</p>
+            <p>
+               <pb n="10" facs="tcp:151262:7"/>
+There ſits Charity yielding her full breaſts, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> teacheth her Off-ſpring how to live by faith i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the want of Creature-enjoyments, and to ancho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their hope upon him who is the Rock of Ages.</p>
+            <p>Here our Windows, that were not only ſhat<g ref="char:EOLhyphen"/>ter'd, but naked, are now glazed and adorne with the honourable Coats of Arms of our No<g ref="char:EOLhyphen"/>ble Preſidents.</p>
+            <p>In a word (Noble Sir) there is no coſt ſpa<g ref="char:EOLhyphen"/>red, nor any thing indeed wanting to make this Hall truly beautiful, but your Effigies, and the repreſentation of the Noble Lady <hi>Ramſie,</hi> to ac<g ref="char:EOLhyphen"/>company that of Sir <hi>John Lemmonds,</hi> once <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worthy Preſident and pious Benefactor to thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Hoſpital:</hi> all which, though we would not Ido<g ref="char:EOLhyphen"/>lize, yet we would count them venerable.</p>
+            <p>Away, you foul-mouth'd <hi>Atheiſts!</hi> No longe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> queſtion the truth of Omnipotency, nor gainſay his Providence. Behold even Us, who are here preſent this day, who have been the Almighties care ever ſince we had our beings. We alone are able to convince you that there is a God, who ſits in Heaven, and ſteers all humane actions and con<g ref="char:EOLhyphen"/>cernments.</p>
+            <p>Away, you <hi>Papiſts,</hi> who boaſt of your Reli<g ref="char:EOLhyphen"/>gious houſes, and think, that by your pretended works of Piety, you ſhall <hi>ex condigno</hi> jump into Heaven <hi>per ſaltum.</hi> Loe, here is a Model of well-diſpoſed Charity, which the God of mercy ap<g ref="char:EOLhyphen"/>proves of, and which you are never able to pa<g ref="char:EOLhyphen"/>rallel. But it is to you (Worthy Sir) whoſe
+<pb n="11" facs="tcp:151262:7"/>heart God hath enlarged, that we owe the thanks of theſe glorious objects which preſent themſelves this day unto our view.</p>
+            <p>Go on, we beſeech you, and by your example prompt others to works of true Piety; that they alſo, as well as you, may help to repair and up<g ref="char:EOLhyphen"/>hold our Foundation-Walls, I mean our Cloy<g ref="char:EOLhyphen"/>ſters, whoſe wide gaps thirſt like the parched earth to be filled with the diſtillation of their liberality.</p>
+            <p>The great God remunerate (Right Worſhipful) your acts of Piety; and grant, that you that have ſo freely caſt your bread on theſe waters, may find it after many days: in the mean time, we poor Orphans will riſe up, and call you bleſſed.</p>
+            <closer>
+               <signed>
+                  <hi>Thomas Brice,</hi> Orphan.</signed>
+            </closer>
+            <pb facs="tcp:151262:8"/>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
